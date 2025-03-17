@@ -1,0 +1,7 @@
+I supported team projects by conducting docking studies, MD simulations, and drafting proposals for targets like GPR75, SSH binders, and P2X7, ensuring alignment with client requirements and scientific standards.
+
+I am actively learning Python and ML, applying them to tasks such as writing scripts for MD simulation analysis, calculating CNS MPO scores, and evaluating the impact of replacing TPSA with 3D PSA. Additionally, I have developed KNIME workflows for efficient database preparation.
+
+I regularly participate in internal team meetings, collaborating effectively to share knowledge, enhance workflows, and contribute to innovative solutions, ensuring successful project outcomes.
+
+I am a proactive professional skilled in computational techniques, including docking studies, MD simulations, and proposal drafting. I apply Python, ML, and KNIME to enhance workflows and decision-making. Through teamwork and problem-solving, I contribute to successful projects. I am committed to continuous learning and will further improve my skills in data analysis, automation, and advanced ML applications."
